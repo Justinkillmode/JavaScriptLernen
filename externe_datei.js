@@ -1,0 +1,1 @@
+document.write("<p> Das ist jetzt von der JS datei</p>");
